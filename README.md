@@ -119,7 +119,7 @@ print(me.motto())
 <h2 align="center">🔥 Streak Stats</h2>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=madhanrocks64&theme=tokyonight&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D" />
+  <img src="https://streak-stats.demolab.com?user=mr-greetings &theme=tokyonight&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D" />
 </p>
 
 <br/>
@@ -129,7 +129,7 @@ print(me.motto())
 <h2 align="center">📈 Contribution Activity</h2>
 
 <p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=madhanrocks64&theme=tokyo-night&hide_border=true&area=true&area_color=70A5FD" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=mr-greetings&theme=tokyo-night&hide_border=true&area=true&area_color=70A5FD" />
 </p>
 
 <br/>
@@ -139,7 +139,7 @@ print(me.motto())
 <h2 align="center">🏆 Trophy Wall</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=madhanrocks64&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mr-greetings &theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" />
 </p>
 
 <br/>
