@@ -245,7 +245,7 @@ print(me.motto())
     <img src="https://img.shields.io/badge/Hire_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/madhan-k-1300b9284?utm_source=share_via&utm_content=profile&utm_medium=member_android">
+  <a href="https://linkedin.com/in/madhan-k">
     <img src="https://img.shields.io/badge/Let%27s_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
@@ -262,4 +262,3 @@ print(me.motto())
   ║  committing to your profile repository.                     ║
   ╚══════════════════════════════════════════════════════════════╝
 -->
-
